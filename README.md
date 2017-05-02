@@ -1,25 +1,25 @@
 # PYGAME SIMPLE SHOOTING
 
-![image](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/title_img.png)
+![title_image](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/title_img.png)
 
-### Description
+## Description
 
  Simple Space Shooting Game (developed by Pygame)
 
-### Screenshots
+## Screenshots
 
 ![start screen](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/start_screen.png)
 ![game play image 1](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/game_play.png)
 ![game play image 2](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/game_play2.png)
 ![game play image 3](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/game_play3.png)
 
-### Requirements
+## Requirements
 
 * Linux (operation unconfirmed : Windows & MacOS)
 * Python3
 * pygame (for python3)
 
-### How to run
+## How to run
 
 ```
 $ git clone https://github.com/yuwki0131/pygame-simple-shooting
@@ -35,6 +35,6 @@ $ pip3 install pygame # if you need
 $ python3 pygame-simple-shooting/game/main.py
 ```
 
-### Credits
+## Credits
 * Illustration and All Icons made by Freepik (http://www.freepik.com) from www.flaticon.com
 * Font made by Daniel Johnson from http://www.dafont.com/jura.font
