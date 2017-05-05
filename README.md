@@ -1,6 +1,6 @@
 # PYGAME SIMPLE SHOOTING
 
-![title_image](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/title_img.png)
+<img src="pictures/title_img.png" width="256">
 
 ## Description
 
@@ -8,10 +8,10 @@
 
 ## Screenshots
 
-![start screen](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/start_screen.png)
-![game play image 1](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/game_play.png)
-![game play image 2](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/game_play2.png)
-![game play image 3](https://github.com/yuwki0131/pygame-simple-shooting/raw/master/pictures/game_play3.png)
+<img src="pictures/start_screen.png" width="256">
+<img src="pictures/game_play1.png" width="256">
+<img src="pictures/game_play2.png" width="256">
+<img src="pictures/game_play3.png" width="256">
 
 ## Requirements
 
