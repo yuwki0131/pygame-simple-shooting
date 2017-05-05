@@ -8,10 +8,8 @@
 
 ## Screenshots
 
-<img src="pictures/start_screen.png" width="256">
-<img src="pictures/game_play1.png" width="256">
-<img src="pictures/game_play2.png" width="256">
-<img src="pictures/game_play3.png" width="256">
+<img src="pictures/start_screen.png" width="256"><img src="pictures/game_play1.png" width="256">
+<img src="pictures/game_play2.png" width="256"><img src="pictures/game_play3.png" width="256">
 
 ## Requirements
 
